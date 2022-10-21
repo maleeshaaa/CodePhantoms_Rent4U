@@ -2,13 +2,13 @@
 # Project Name - Car Rental App
 Mobile Application Development Project - Year 2 Semester 2
 # Batch - Malabe G1 - CodePhantoms
-Group Leader - IT21099618 - Shashindi H.P.M (maleeshaaa)
+## Group Leader - IT21099618 - Shashindi H.P.M (maleeshaaa)
 ---
-Member 2 - IT21099786 - Jayasekara W.R.S.K (RashmikaJay16)
+## Member 2 - IT21099786 - Jayasekara W.R.S.K (RashmikaJay16)
 ---
-Member 3 - IT21104558 - Buddhika W.H.J (it21104558)
+## Member 3 - IT21104558 - Buddhika W.H.J (it21104558)
 ---
-Member 4 - IT21073946 - Jayasena A.K.B.D (BimsaraJay)
+## Member 4 - IT21073946 - Jayasena A.K.B.D (BimsaraJay)
 ---
 
 ### Brief Description of Project :
@@ -37,6 +37,5 @@ payment method and entering the payment details. If the customers need to cancel
 reservation after booking, they can do so. Also, if a buyer is satisfied with the service and 
 facilities, he/she can rate and make reviews for the app.
 
-### Technologies used :
----
+### Technologies Used :
 Android Studio, Java and SQL Lite Used as Technologies
