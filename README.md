@@ -4,11 +4,8 @@ Mobile Application Development Project - Year 2 Semester 2
 # Batch - Malabe G1 - CodePhantoms
 ## Group Leader - IT21099618 - Shashindi H.P.M (maleeshaaa)
 ## Member 2 - IT21099786 - Jayasekara W.R.S.K (RashmikaJay16)
----
 ## Member 3 - IT21104558 - Buddhika W.H.J (it21104558)
----
 ## Member 4 - IT21073946 - Jayasena A.K.B.D (BimsaraJay)
----
 
 ### Brief Description of Project :
 Rent 4’ U is a vehicle rental app focused on the Sri Lankan community that can be 
