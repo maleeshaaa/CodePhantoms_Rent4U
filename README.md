@@ -1,7 +1,7 @@
 # CodePhantoms_Rent4U
 # Project Name - Car Rental App
 Mobile Application Development Project - Year 2 Semester 2
-Batch - Malabe G1 - CodePhantoms
+# Batch - Malabe G1 - CodePhantoms
 Group Leader - IT21099618 - Shashindi H.P.M (maleeshaaa)
 Member 2 - IT21099786 - Jayasekara W.R.S.K (RashmikaJay16)
 Member 3 - IT21104558 - Buddhika W.H.J (it21104558)
