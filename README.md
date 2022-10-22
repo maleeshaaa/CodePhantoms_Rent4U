@@ -34,4 +34,4 @@ reservation after booking, they can do so. Also, if a buyer is satisfied with th
 facilities, he/she can rate and make reviews for the app.
 
 ### Technologies Used :
-Android Studio, Java and Firebase used as Technologies
+Android Studio, Java and Firebase are used as technologies.
