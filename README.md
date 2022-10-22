@@ -7,7 +7,7 @@ Mobile Application Development Project - Year 2 Semester 2
 ### Member 3 - IT21104558 - Buddhika W.H.J (it21104558)
 ### Member 4 - IT21073946 - Jayasena A.K.B.D (BimsaraJay)
 
-### Brief Description of Project :
+### Brief Description of the Project :
 Rent 4’ U is a vehicle rental app focused on the Sri Lankan community that can be 
 used for renting and reserving vehicles. This is an online system that allows customers to 
 view available vehicles, view user profiles, and make online bookings. Transport facilities 
@@ -34,4 +34,4 @@ reservation after booking, they can do so. Also, if a buyer is satisfied with th
 facilities, he/she can rate and make reviews for the app.
 
 ### Technologies Used :
-Android Studio, Java and SQL Lite Used as Technologies
+Android Studio, Java and Firebase used as Technologies
