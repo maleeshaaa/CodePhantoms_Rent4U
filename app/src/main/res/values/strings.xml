@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">Car Rental App - Rent4U</string>
+    <string name="Loct">Location</string>
+    <string name="AddBtn">Add a Photo</string>
+    <string name="Ctgry">Add Category</string>
+    <string name="Name">Vehicle Name</string>
+    <string name="Decript">Description</string>
+    <string name="CntctNo">Contact Number</string>
+    <string name="Fee">Rental Fee</string>
+    <string name="Amount">Deposit Amount</string>
+    <string name="Nego">Negotiable</string>
+    <string name="PostAddBtn">Post Add</string>
+    <string name="ctgryname">Category Name</string>
+    <string name="CtgryDes">Category Description</string>
+    <string name="Type">Types</string>
+    <string name="AddctgryButton">Add a new Category</string>
+    <string name="Submit">Submit</string>
+    <string name="carCtgry">Category :  Car</string>
+    <string name="Type1">Type 1 - Premio</string>
+    <string name="Type2">Type 2 - Ford Escape</string>
+    <string name="Type3">Type 3 - Hyundai Tucson</string>
+    <string name="Type4">Type 4 - Maruti Suzuki</string>
+    <string name="Add">Add Type</string>
+    <string name="EditBtn">Edit</string>
+    <string name="DeleteBtn">Delete</string>
+    <string name="premio">Toyota Premio (2011)</string>
+    <string name="price1">Rs 25000 /= per day</string>
+    <string name="Foton">Foton Van (2020)</string>
+    <string name="price2">Rs 35000 /= per day</string>
+    <string name="Sorento">KIA Sorento (2016)</string>
+    <string name="Price3">Rs 45000 /= per day</string>
+    <string name="Menu1">New Listing</string>
+    <string name="Edit">Edit Photo</string>
+    <string name="Edit2">Edit Add</string>
+    <string name="Admin">Admin Dashboard</string>
+    <string name="email">abc2001@gmail.com</string>
+    <string name="search">Search</string>
 </resources>

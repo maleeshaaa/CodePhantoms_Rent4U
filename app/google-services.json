@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181364158101",
+    "project_id": "rent4u-a06f6",
+    "storage_bucket": "rent4u-a06f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181364158101:android:23a88356982e028245359c",
+        "android_client_info": {
+          "package_name": "com.example.carrentalapp_rent4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181364158101-vsd95u77ad7i2j2qr779hbaf1eeuvuqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-SwECUwxsR7dtyPfCjd7p2ADz8lXTk0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181364158101-vsd95u77ad7i2j2qr779hbaf1eeuvuqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
