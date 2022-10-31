@@ -54,6 +54,7 @@ public class Show_Payment extends AppCompatActivity {
         db = FirebaseDatabase.getInstance();
         dbRef = db.getReference("Payments");
 
+        //Retrieve Data
         dbRef.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot snapshot) {
@@ -89,6 +90,7 @@ public class Show_Payment extends AppCompatActivity {
             }
         });
 
+        //Delete Data
         btnCancel.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -105,6 +107,7 @@ public class Show_Payment extends AppCompatActivity {
             }
         });
 
+        //Update Data
         btnUpdate.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
