@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "914965543289",
+    "firebase_url": "https://car-rental-app---rent4u-default-rtdb.firebaseio.com",
+    "project_id": "car-rental-app---rent4u",
+    "storage_bucket": "car-rental-app---rent4u.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914965543289:android:9aa4c9ed1b905e69e957a8",
+        "android_client_info": {
+          "package_name": "com.example.carrentalapp_rent4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914965543289-s82l9cqhrejfrarfvunakdf2a3qfng4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnL0QMerW-pHCDoW2zVwenpamr5qKjVWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914965543289-s82l9cqhrejfrarfvunakdf2a3qfng4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
