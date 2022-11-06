@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">Car Rental App - Rent4U</string>
+    <string name="app_name">Rent 4\' U</string>
+    <string name="vehicletype">Vehicle Type</string>
+    <string name="vehiclecategory">Vehicle Category</string>
+    <string name="date_pickup_btn">PICKUP DATE</string>
+    <string name="pickupdate">Pick Up Date</string>
+    <string name="Time">TIME</string>
+    <string name="from">From</string>
+    <string name="TimeFrom"> From</string>
+    <string name="to">To</string>
+    <string name="Timeto">To</string>
+    <string name="continuebtn">CONTINUE</string>
+    <string name="reqVehi_btn">REQUEST VEHICLE</string>
+    <string name="viewReq_btn">VIEW MY REQUEST</string>
+    <string name="LogOut_btn">LOG OUT</string>
+    <string name="vehicleRequest">VEHICLE REQUESTS</string>
+    <string name="logout">LOGOUT</string>
+    <string name="editbtn">EDIT</string>
+    <string name="deletebtn">DELETE</string>
+    <string name="vType">Vehicle Type :</string>
+    <string name="vCategory">Vehicle Category :</string>
+    <string name="selectedDate">Selected Date</string>
+    <string name="selectTime">Selected Time</string>
+
+
 </resources>
