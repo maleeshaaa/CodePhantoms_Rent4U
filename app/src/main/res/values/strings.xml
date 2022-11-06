@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">Car Rental App - Rent4U</string>
+    <string name="app_name">Rent 4\' U</string>
+    <string name="emailText">EMAIL</string>
+    <string name="msgBox">Message......</string>
+    <string name="Rev_veh">Review Vehicle</string>
+    <string name="type">Vehicle type /-</string>
+    <string name="model">Vehicle Model -</string>
+    <string name="name">Owner Name -</string>
+    <string name="Quality">Quality</string>
+    <string name="Support">Support</string>
+    <string name="Price">Price</string>
+    <string name="Comments">Comments</string>
+    <string name="Submit">Submit</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Vtype">Vehicle type</string>
+    <string name="Menu1">Review Vehicle</string>
+    <string name="Cus">Customer Suppor</string>
+    <string name="Name">Amarathunga</string>
+    <string name="Mas">Massage....</string>
+    <string name="Menu2"> CustomerCare</string>
 </resources>

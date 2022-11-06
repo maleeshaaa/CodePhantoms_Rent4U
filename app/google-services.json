@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "419661887150",
+    "firebase_url": "https://rent4u-fd69c-default-rtdb.firebaseio.com",
+    "project_id": "rent4u-fd69c",
+    "storage_bucket": "rent4u-fd69c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419661887150:android:1f4dbcca92b200f2e09f3f",
+        "android_client_info": {
+          "package_name": "com.example.carrentalapp_rent4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419661887150-akcdor4965avuurn1bfaq35mg9es83kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCudB6xXVZA9tt46cVPX5Nto3gNGZUjoWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419661887150-akcdor4965avuurn1bfaq35mg9es83kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419661887150:android:a7b6a29654122f7fe09f3f",
+        "android_client_info": {
+          "package_name": "com.example.feedback"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419661887150-akcdor4965avuurn1bfaq35mg9es83kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCudB6xXVZA9tt46cVPX5Nto3gNGZUjoWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419661887150-akcdor4965avuurn1bfaq35mg9es83kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
