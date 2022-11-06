@@ -4,16 +4,23 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/SLIIT/MAD/Rent4U/app/src/main/res/drawable/background.xml" value="0.1425" />
+        <entry key="..\:/SLIIT/MAD/Rent4U/app/src/main/res/drawable/edittext1.xml" value="0.163" />
+        <entry key="..\:/SLIIT/MAD/Rent4U/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.163" />
         <entry key="..\:/SLIIT/MAD/Rent4U/app/src/main/res/drawable/shape1.xml" value="0.136" />
         <entry key="..\:/SLIIT/MAD/Rent4U/app/src/main/res/drawable/shape_button1.xml" value="0.1465" />
         <entry key="..\:/SLIIT/MAD/Rent4U/app/src/main/res/drawable/shape_button3.xml" value="0.1485" />
         <entry key="..\:/SLIIT/MAD/Rent4U/app/src/main/res/drawable/shape_edittext1.xml" value="0.1465" />
         <entry key="..\:/SLIIT/MAD/Rent4U/app/src/main/res/drawable/shape_toolbar.xml" value="0.1485" />
-        <entry key="..\:/SLIIT/MAD/Rent4U/app/src/main/res/layout/activity_add_category.xml" value="0.4" />
+        <entry key="..\:/SLIIT/MAD/Rent4U/app/src/main/res/layout/activity_add_category.xml" value="0.2" />
         <entry key="..\:/SLIIT/MAD/Rent4U/app/src/main/res/layout/activity_add_vehicle.xml" value="0.24635416666666668" />
         <entry key="..\:/SLIIT/MAD/Rent4U/app/src/main/res/layout/activity_category_display.xml" value="0.264" />
         <entry key="..\:/SLIIT/MAD/Rent4U/app/src/main/res/layout/activity_main.xml" value="0.26197916666666665" />
         <entry key="..\:/SLIIT/MAD/Rent4U/app/src/main/res/layout/activity_my_adds.xml" value="0.24635416666666668" />
+        <entry key="..\:/SLIIT/MAD/Rent4U/app/src/main/res/layout/activity_pdf_add.xml" value="0.264" />
+        <entry key="..\:/SLIIT/MAD/Rent4U/app/src/main/res/layout/activity_vehicle_display.xml" value="0.25" />
+        <entry key="..\:/SLIIT/MAD/Rent4U/app/src/main/res/layout/activity_vehicle_edit.xml" value="0.2" />
+        <entry key="..\:/SLIIT/MAD/Rent4U/app/src/main/res/layout/add_pdf.xml" value="0.25" />
+        <entry key="..\:/SLIIT/MAD/Rent4U/app/src/main/res/layout/one_add.xml" value="0.26458333333333334" />
         <entry key="..\:/SLIIT/MAD/Rent4U/app/src/main/res/layout/row_category.xml" value="0.26458333333333334" />
         <entry key="..\:/SLIIT/MAD/Rent4U/app/src/main/res/layout/toolbar.xml" value="0.2453125" />
       </map>

@@ -3,6 +3,7 @@ package com.example.carrentalapp_rent4u;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.inputmethodservice.Keyboard;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -78,6 +79,16 @@ public class AdapterCategory extends RecyclerView.Adapter<AdapterCategory.Holder
                             }
                         })
                         .show();
+            }
+        });
+
+        holder.itemView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(context,Vehicle_Display.class);
+                intent.putExtra("categoryId",id);
+                intent.putExtra("categoryTitle",category);
+                context.startActivity(intent);
             }
         });
     }

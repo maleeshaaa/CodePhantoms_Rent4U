@@ -1,15 +1,14 @@
 <resources>
     <string name="app_name">Car Rental App - Rent4U</string>
-    <string name="Loct">Location</string>
-    <string name="AddBtn">Add a Photo</string>
+    <string name="Loct">Location -</string>
+    <string name="AddBtn">Add a new Vehicle</string>
     <string name="Ctgry">Add Category</string>
-    <string name="Name">Vehicle Name</string>
-    <string name="Decript">Description</string>
-    <string name="CntctNo">Contact Number</string>
-    <string name="Fee">Rental Fee</string>
-    <string name="Amount">Deposit Amount</string>
-    <string name="Nego">Negotiable</string>
-    <string name="PostAddBtn">Post Add</string>
+    <string name="Name">Vehicle Name -</string>
+    <string name="Decript">Description -</string>
+    <string name="CntctNo">Contact Number -</string>
+    <string name="Fee">Rental Fee -</string>
+    <string name="Categry">Category</string>
+    <string name="PostAddBtn">Add new vehicle</string>
     <string name="ctgryname">Category Name</string>
     <string name="CtgryDes">Category Description</string>
     <string name="Type">Types</string>
@@ -21,7 +20,7 @@
     <string name="Type3">Type 3 - Hyundai Tucson</string>
     <string name="Type4">Type 4 - Maruti Suzuki</string>
     <string name="Add">Add Type</string>
-    <string name="EditBtn">Edit</string>
+    <string name="EditBtn">Update</string>
     <string name="DeleteBtn">Delete</string>
     <string name="premio">Toyota Premio (2011)</string>
     <string name="price1">Rs 25000 /= per day</string>
@@ -35,4 +34,7 @@
     <string name="Admin">Admin Dashboard</string>
     <string name="email">abc2001@gmail.com</string>
     <string name="search">Search</string>
+    <string name="user">User Dashboard</string>
+    <string name="vehicle">Vehicles</string>
+    <string name="edit">Edit Vehicle Details</string>
 </resources>
